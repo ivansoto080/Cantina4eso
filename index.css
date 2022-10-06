@@ -82,19 +82,19 @@ header{
     
 }
 #kitkat{
-    background-image: url("https://tienda-autorizada.com/cdn-cgi/image/f=auto,fit=scale-down,width=500,height=500,quality=80/https://tienda-autorizada.com/image/catalog/A-Prooductos%203.0/Procura/00-PROCURA/0-GUCM/CONFITES%2049-F.png");
+    background-image: url("/CONFITES 49-F.avif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #oreo{
-    background-image: url("https://www.confitelia.com/2982-thickbox_default/galleta-oreo-original-66-g.jpg");
+    background-image: url("/galleta-oreo-original-66-g.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 #bifruit{
-    background-image: url("https://www.alcampo.es/media/h41/hbb/10546726535198.jpg");
+    background-image: url("/10546726535198.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
